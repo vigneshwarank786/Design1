@@ -1,0 +1,18 @@
+.mycontent{
+    padding: 250px;
+    color: white;
+    background: linear-gradient(110deg, #ff66cc 50%, #e5cc5c 50%);
+}
+
+nav{
+    background: linear-gradient(110deg,#ff66cc 60%, #e5cc5c 40%);
+}
+
+img{
+    width: 70%; 
+
+}
+
+.navbar-header{
+    text-align: center;
+}
